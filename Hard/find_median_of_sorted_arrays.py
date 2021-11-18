@@ -17,10 +17,3 @@ def find_median_sorted_arrays(nums1: List[int], nums2: List[int]) -> float:
 
     else:
         return l1[int(n/2)]
-
-
-if __name__ == "__main__":
-    nums1 = [1, 3, 2]
-    nums2 = [7, 6, 5]
-    result = find_median_sorted_arrays(nums1, nums2)
-    print(result)
