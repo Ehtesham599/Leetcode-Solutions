@@ -11,6 +11,8 @@
 
 ## Medium
 
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) ([Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Medium/reverse_integer.py))
+
 ## Hard
 
 - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) ([Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Hard/find_median_of_sorted_arrays.py))
