@@ -10,6 +10,7 @@ View all problems [here](https://leetcode.com/problemset/all/).
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/two_sum.py)]
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/find_disappeared_numbers.py)]
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/palindrome_number.py)]
 
 ## Medium
 
