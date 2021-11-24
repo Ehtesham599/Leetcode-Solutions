@@ -17,7 +17,6 @@ class Solution:
         
         args:
         -----
-        
         num: integer number can be positive or negative (eg: -233)
         """
         MIN_INT = -2**31
