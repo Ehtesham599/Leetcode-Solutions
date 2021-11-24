@@ -18,6 +18,7 @@ View all problems [here](https://leetcode.com/problemset/all/).
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Medium/longest_substring_without_repeating_characters.py)]
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Medium/letterCombination.py)]
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Medium/integer_to_roman.py)]
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) [[solution](https://github.com/Ehtesham599/Leetcode-Solutions/commit/cbeca1adc1667b41648e768fb8d2faa8bebf1d1c)]
 
 ## Hard
 
