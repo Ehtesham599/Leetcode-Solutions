@@ -13,6 +13,8 @@ View all problems [here](https://leetcode.com/problemset/all/).
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/palindrome_number.py)]
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/search_insert_position.py)]
 
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Easy/middle_of_linked_list.py)]
+
 ## Medium
 
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[Solution](https://github.com/Ehtesham599/Leetcode-Solutions/blob/main/Medium/reverse_integer.py)]
